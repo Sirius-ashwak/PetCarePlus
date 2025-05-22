@@ -1,7 +1,7 @@
 
-# PetPal - Your AI-Powered Pet Companion 🐾
+# PetCare+ - Your AI-Powered Pet Companion 🐾
 
-PetPal is a Next.js web application designed to help pet owners manage their pets' health, routines, and memories with the assistance of AI-powered tools.
+PetCare+ is a Next.js web application designed to help pet owners manage their pets' health, routines, and memories with the assistance of AI-powered tools.
 
 ## ✨ Features
 
